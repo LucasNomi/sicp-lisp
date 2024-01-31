@@ -3,8 +3,9 @@
 Documenting my own resolutions to the exercises in the book Structure and Interpretation of Computer Programs, 
 as well as some code exemples shown in the book.
 
-## How is the repository organized
+## Naming conventions 
 
 The exercises and code examples are separed by the book chapters in which they appear.
-The file name is the implemented algorithm or package.
+Code exemples are named according to the implemented algorithm or package.
+Exercises are named using the following rule: <chapter>_<exercise>_[a-z]
 
