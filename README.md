@@ -7,5 +7,5 @@ as well as some code exemples shown in the book.
 
 The exercises and code examples are separed by the book chapters in which they appear.
 Code exemples are named according to the implemented algorithm or package.
-Exercises are named using the following rule: <chapter>_<exercise>_[a-z]
+Exercises are named using the following rule: chapter_exercise_[a-z]
 
